@@ -1,0 +1,24 @@
+<xml>
+ <bug_id>"BUG ID   : #1"</bug_id>
+ <title>"TITLE     : CONTACT FORM - No confirmation is shown"</title>
+
+ <summary>"SUMMARY : The page where the contact form is on does not show any confirmation message after submitting a contact request."</summary>
+ <screenshot>"SCREENSHOT  : See attached screenshot" </screenshot>
+ <platform>"PLATFORM  : Windows 10 Home, 10.0.19044"</platform>
+ <browser>"BROWSER  : Chrome 101.0.4951.54"</browser>
+
+ <reporter>"REPORTER  : Tetiana B" </reporter>
+ <date_and_time>"DATE AND TIME  : Fri May 05 10:12:40 2022"</date_and_time>
+ <bug_priority>"BUG PRIORITY  : High"</bug_priority>
+ <bug_severity>"BUG SEVERITY  : Critical"</bug_severity>
+
+ <notes>"NOTES"</notes>         
+ <decription>"DESCRITION  : 1. Filled out contact form
+                 2. Clicked on submit
+                 3. Form loaded a while
+                 4. Contact form showed '<empty>'"</decription>
+
+<expected>"EXPECTED  : 'Thank you for contacting us, we get in touch shortly'"</expected>
+<actual>"ACTUAL  : '<empty>'"</actual>
+
+<bug_status>"BUG STATUS  : IN PROCESS"</bug_status>
