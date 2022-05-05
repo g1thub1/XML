@@ -13,7 +13,7 @@
  <bug_severity>"BUG SEVERITY  : Critical"</bug_severity>
 
  <notes>"NOTES"</notes>         
- <decription>"DESCRITION  : 1. Filled out contact form
+ <decription>"DESCRIPTION  : 1. Filled out contact form
                  2. Clicked on submit
                  3. Form loaded a while
                  4. Contact form showed '<empty>'"</decription>
